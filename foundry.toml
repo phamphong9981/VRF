@@ -1,0 +1,11 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+[rpc_endpoints]
+base-sepolia = "https://base-sepolia.g.alchemy.com/v2/hJnt1VfXji-x4OLGhUD0XHM2jaPGdNaS"
+ethereum = "https://eth-mainnet.g.alchemy.com/v2/hJnt1VfXji-x4OLGhUD0XHM2jaPGdNaS"
+base = "https://base-mainnet.g.alchemy.com/v2/hJnt1VfXji-x4OLGhUD0XHM2jaPGdNaS"
+sepolia = "https://eth-sepolia.g.alchemy.com/v2/hJnt1VfXji-x4OLGhUD0XHM2jaPGdNaS"
