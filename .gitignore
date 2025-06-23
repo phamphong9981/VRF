@@ -19,4 +19,4 @@ node_modules/
 
 lib/
 
-sepolia.json
+keystore/
